@@ -1,3 +1,8 @@
+<style>
+body {
+  background: red !important;
+}
+</style>
 /* リセットとベース設定 */
 * {
     margin: 0;
